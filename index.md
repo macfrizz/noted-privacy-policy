@@ -1,11 +1,11 @@
-# Privacy Policy for Notes App
+# Privacy Policy for Noted
 
 **Effective Date:** October 23, 2025
 **Last Updated:** November 20, 2025
 
 ## Overview
 
-Notes ("the App") is a simple, private notes application developed by Ryan. Your privacy is important to us. This policy explains how we handle your information.
+Noted ("the App") is a simple, private notes application developed by Ryan. Your privacy is important to us. This policy explains how we handle your information.
 
 ## Information We Collect
 
@@ -139,7 +139,7 @@ If you have questions about this Privacy Policy, please contact:
 
 **Developer:** Ryan
 **Email:** iamryanjacobsen@gmail.com
-**App:** Notes - Simple & Beautiful
+**App:** Noted
 
 ## Google Play Store Compliance
 
