@@ -1,7 +1,7 @@
 # Privacy Policy for Noted
 
 **Effective Date:** October 23, 2025
-**Last Updated:** November 20, 2025
+**Last Updated:** November 27, 2025
 
 ## Overview
 
@@ -19,18 +19,20 @@ The App does not collect, transmit, or share any of your personal data. All note
 - **Timestamps:** Creation and modification dates for organizing your notes
 - **Tags:** Optional tags you add to notes for organization
 - **Folders:** Custom archive folders you create
+- **Photos:** Images you attach to notes are stored locally in the app's private storage
+- **Reminders:** Reminder times you set for notes are stored locally on your device
 - **App Preferences:** Theme settings, font choices, and other app configurations
 
 ### What Data is NOT Collected
 
-- ❌ No personal information
-- ❌ No email addresses
-- ❌ No phone numbers
-- ❌ No location data
-- ❌ No analytics or tracking
-- ❌ No advertising identifiers
-- ❌ No usage statistics
-- ❌ No crash reports
+- No personal information
+- No email addresses
+- No phone numbers
+- No location data
+- No analytics or tracking
+- No advertising identifiers
+- No usage statistics
+- No crash reports
 
 ## Data Storage
 
@@ -57,21 +59,26 @@ When you export notes:
 
 **We use NO third-party services.** The App does not integrate with:
 
-- ❌ Analytics services (Google Analytics, Firebase, etc.)
-- ❌ Advertising networks
-- ❌ Cloud storage providers (unless you manually save there)
-- ❌ Social media platforms
-- ❌ Crash reporting services
+- Analytics services (Google Analytics, Firebase, etc.)
+- Advertising networks
+- Cloud storage providers (unless you manually save there)
+- Social media platforms
+- Crash reporting services
 
 ## Permissions
 
-The App uses **NO dangerous permissions**. Specifically:
+The App requests only the permissions necessary for specific features you choose to use:
 
-- ✅ **No Internet Permission** - The app cannot access the internet
-- ✅ **No Storage Permission** - Uses Android's Storage Access Framework (no permission needed)
-- ✅ **No Location Permission** - We never access your location
-- ✅ **No Camera/Microphone** - We don't access device sensors
-- ✅ **No Contacts Access** - We don't read your contacts
+- **No Internet Permission** - The app cannot access the internet
+- **No Location Permission** - We never access your location
+- **No Contacts Access** - We don't read your contacts
+
+### Optional Permissions (only when you use the feature)
+
+- **Camera** - Only used when you choose to take a photo to attach to a note
+- **Photo Gallery Access** - Only used when you choose to attach an existing photo to a note
+- **Notifications** - Only used to deliver reminders you set for your notes
+- **Alarms & Reminders** - Only used to schedule reminder notifications at times you specify
 
 ### Storage Access Framework
 
@@ -79,6 +86,23 @@ The App uses Android's modern Storage Access Framework (SAF) for backup/restore:
 - You choose files and locations through Android's system UI
 - No broad storage access required
 - You maintain full control over your files
+
+### Photos
+
+When you attach photos to notes:
+- Photos are copied to the app's private storage on your device
+- Original photos in your gallery are not modified
+- Photos are only accessed when you explicitly choose to add them
+- Photos are included in backups if you export your notes
+- Photos are deleted when you delete the associated note or uninstall the app
+
+### Reminders
+
+When you set reminders for notes:
+- Reminder times are stored locally on your device
+- Notifications are delivered through Android's system
+- No reminder data is sent to external servers
+- Reminders are rescheduled automatically after device restart
 
 ## Data Security
 
@@ -115,7 +139,7 @@ We don't keep any data because we don't collect any data. All notes are stored l
 To delete all your notes and app data:
 
 1. **In-App:** Delete notes individually by swiping left
-2. **Android Settings:** Go to Settings → Apps → Notes → Storage → Clear Data
+2. **Android Settings:** Go to Settings → Apps → Noted → Storage → Clear Data
 3. **Uninstall:** Uninstalling the app removes all data
 
 **Important:** Deleting app data or uninstalling removes all notes permanently unless you've exported a backup.
@@ -124,10 +148,10 @@ To delete all your notes and app data:
 
 Since we don't collect any personal data, typical data rights (access, correction, deletion, portability) are not applicable. However:
 
-- ✅ **You own your data** - All notes belong to you
-- ✅ **Full control** - You can export, delete, or modify notes anytime
-- ✅ **No tracking** - We never track your usage
-- ✅ **No profiling** - We don't build profiles or analyze behavior
+- **You own your data** - All notes belong to you
+- **Full control** - You can export, delete, or modify notes anytime
+- **No tracking** - We never track your usage
+- **No profiling** - We don't build profiles or analyze behavior
 
 ## International Users
 
@@ -145,11 +169,11 @@ If you have questions about this Privacy Policy, please contact:
 
 This app complies with Google Play's privacy requirements:
 
-- ✅ No deceptive behavior
-- ✅ No unauthorized data collection
-- ✅ No malware or harmful code
-- ✅ Transparent about data practices
-- ✅ Respects user privacy
+- No deceptive behavior
+- No unauthorized data collection
+- No malware or harmful code
+- Transparent about data practices
+- Respects user privacy
 
 ## Consent
 
@@ -158,7 +182,7 @@ By using the App, you agree to this Privacy Policy. Since we collect no data, th
 ## Summary
 
 **The Simple Truth:**
-- Your notes stay on your device
+- Your notes, photos, and reminders stay on your device
 - We don't collect anything
 - We don't track anything
 - You control your data completely
@@ -166,6 +190,6 @@ By using the App, you agree to this Privacy Policy. Since we collect no data, th
 
 ---
 
-**Last Updated:** November 20, 2025
-**Version:** 1.1
-**App Version:** 2.38
+**Last Updated:** November 27, 2025
+**Version:** 1.2
+**App Version:** 2.53
